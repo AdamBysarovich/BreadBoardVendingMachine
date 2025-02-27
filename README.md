@@ -1,3 +1,27 @@
+# SR Latch
+
+An SR Latch is the basis of this circuit ad will be needed during the vending machine circuit. The SR stands for Set and Reset and this is how the computer remembers what you can put into the computer. 
+
+
+Here is the truth table for the SR Latch
+
+![image](https://github.com/user-attachments/assets/e1fd3dfe-20de-4929-b900-eb72a4d13930)
+
+Justice, M. (2020). How computers really work: A hands-on guide to the inner workings of the machine. No Starch Press.
+
+Here is a SR Latch Graph for the actual circuit. and below that is where it shows that R is getting the charge and they top Q is charged
+
+![image](https://github.com/user-attachments/assets/fc801356-bda4-4791-ba3e-018d9dc1b422)
+
+![image](https://github.com/user-attachments/assets/fb094349-dac2-41e7-8f9d-7ecb3c9921fc)
+
+This stays like this after you charge the compacitor
+
+Here is what happens after you press the S button. 
+
+![image](https://github.com/user-attachments/assets/a80296aa-1633-4be0-8323-27ee02dafc67)
+
+
 # BreadBoardVendingMachine
 This read me is about how to make a vending machine circuit. Here is a concepualization graph below. you need to make a part of the circuit remember the coin for it to beale to vend and then reset after it vends
 
